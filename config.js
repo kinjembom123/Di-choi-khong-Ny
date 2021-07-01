@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Ny à!',
-    introDesc: `Thế giới có 7 tỷ người mày có muốn đi chơi với tao ( khi hết dịch ) 🥺 ?`,
+    introDesc: `Thế giới có 7 tỷ người liệu mày có muốn đi chơi với tao ( khi hết dịch ) 🥺 ?`,
     btnIntro: 'Hihi',
     title: 'Phải chăng mày muốn đi chơi với tao 🥺 ?',
     desc: 'Đi chơi với tao đi mà 🥺 ',
@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không rảnh :3',
     question:'Hihi, thế giới có 7 tỷ người vậy sao m lại đi chơi với tao ???',
     btnReply: 'Gửi cho Quốc',
-    reply: 'Vì tao thích đi chơi ',
+    reply: 'Vì tao muốn đi chơi với mày :)) ',
     mess: 'Ok hết dịch này mình đi nhé',
     messDesc: 'HiHi',
     btnAccept: 'Okok',
