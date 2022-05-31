@@ -1,4 +1,4 @@
-const CONFIG = {
+ CONFIG = {
     introTitle: 'Ngân à!',
     introDesc: `Thế giới có 7 tỷ người liệu mày có muốn đi chơi với tao ( khi hết dịch ) 🥺 ?`,
     btnIntro: 'Hihi',
